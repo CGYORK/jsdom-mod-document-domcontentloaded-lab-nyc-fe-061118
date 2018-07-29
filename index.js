@@ -1,2 +1,2 @@
 /* code goes here */
-document.getElementByID('hidden-div').innerText = "301";
+document.getElementById('hidden-div').innerText = 301;
