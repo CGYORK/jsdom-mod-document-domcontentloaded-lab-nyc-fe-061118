@@ -1,2 +1,2 @@
 /* code goes here */
-div#hidden-div.innerText = 301;
+document..innerText = 301;
