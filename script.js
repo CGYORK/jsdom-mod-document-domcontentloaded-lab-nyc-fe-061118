@@ -1,1 +1,0 @@
-Uncaught TypeError: Cannot read property 'addEventListener' of null
